@@ -1,6 +1,13 @@
  body{
-border-radius: 40px;
 
    text-align: center;
 
 }
+
+
+
+img{
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 50%;
